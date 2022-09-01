@@ -20,6 +20,10 @@ public class Main {
         System.out.println(" `.::.888.       ::          .88888888");
         System.out.println("  .::::::.888.   ::         :::`888'.:.");
         System.out.println(" :::::::::.888   '         .:8::::::::::::.");
-        System.out.println("::::::::::.8
+        System.out.println(" :::::::::::.8    '      .:888:::::::::::::");
+        System.out.println(".::::::::::::::.       .:888:::::::::::::");
+        System.out.println(":::::::::::::::88:.__..:88888:::::::::::");
+        System.out.println(" `'.:::::::::::88888888888.88:::::::::'");
+        System.out.println("       `':::_:'--''
     }
 }
