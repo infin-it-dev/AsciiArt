@@ -15,5 +15,9 @@ public class Main {
         System.out.println("   .8888.'      :'      `'::`88:88888");
         System.out.println("  .8888         '          `.888:88888");
         System.out.println(" 888:88          .           888:88888");
+        System.out.println(".888:88         :.           888:88888:");
+        System.out.println("8888888.        ::           88:888888");
+        System.out.println("`.::.888.       ::          .88888888");
+        System.out.println(" .::::::
     }
 }
