@@ -27,5 +27,27 @@ public class Main {
         System.out.println("  :::::::::::::::88:.__..:88888:::::::::::     ");
         System.out.println("   `'.:::::::::::88888888888.88:::::::::'      ");
         System.out.println("         `':::_:'--'' -'-' `':_::::'           ");
-    }
+        System.out.println("                                               ");
+        System.out.println("                                               ");
+        System.out.println("                                               ");
+        System.out.prinln("                    _nnnn_   ");
+        System.out.prinln("                   dGGGGMMb  ");
+        System.out.prinln("                  @p~qp~~qMb ");
+        System.out.prinln("                  M|@||@) M| ");
+       System.out.prinln("                   @,----.JM| ");
+         System.out.prinln("                JS^\__/  qKL    ");
+         System.out.prinln("               dZP        qKRb   ");
+         System.out.prinln("              dZP          qKKb  ");
+         System.out.prinln("            fZP            SMMb ");
+         System.out.prinln("            HZM            MMMM ");
+         System.out.prinln("            FqM            MMMM ");
+        System.out.prinln("           _| ".        |\dS"qML    ");
+        System.out.prinln("            |    `.       | `' \Zq    ");
+        System.out.prinln("           _)      \.___.,|     .'   ");
+         System.out.prinln("           \____   )MMMMMP|   .'    ");
+        System.out.prinln("                 `-'       `--'  ");
+                           
+    
+            
+        }
 }
