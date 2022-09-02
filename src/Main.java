@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println(" Tux the Linux Penguin!");
+        System.out.println(" Tux is the best penguin. ");
+        System.out.println(" Tux is the only penguin.");
+        System.out.println(" Just like Linux is the only kernal to choose an OS from.");
         System.out.println(" ");
         System.out.println(" ");
         System.out.println(" ");
